@@ -1,1 +1,1 @@
-# FinalProject_LTKHDL
+Link tasks assingment: https://docs.google.com/spreadsheets/d/16Zr87G9Je7Rl3tS1-R6aUrOBCYf_oEGRk8dgMuEUc-Q/edit?usp=sharing
