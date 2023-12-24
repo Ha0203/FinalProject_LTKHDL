@@ -16,9 +16,11 @@
 
 2. [Collecting Data](#2.-Collecting-Data)
 
-3. [Exploring And Preprocessing Data](#3.-Exploring-And-Preprocessing-Data)
+3. [Exploring And Preprocessing Data](#3.-Exploring-Data)
 
-4. [Asking Meaningful Questions And Analyzing](#4-Asking-Meaningful-Questions-And-Analyzing)
+4. [Asking Meaningful Questions And Analyzing](#4-Asking-Meaningful-Questions)
+
+5. [References](#5.-References)
 
 ### _1.2. Link tasks assingment_
 
@@ -67,3 +69,11 @@ Link tasks assingment: https://docs.google.com/spreadsheets/d/16Zr87G9Je7Rl3tS1-
 ### _4.3. How does the quantity of orders sold vary during certain times of the year?_
 
 ### _4.4. Which items are frequently bought together?_
+
+## 5. References
+
+- Apriori algorithm: https://www.geeksforgeeks.org/apriori-algorithm/
+
+- Lift metric: https://en.wikipedia.org/wiki/Lift_(data_mining)
+
+- Branches on Github: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
