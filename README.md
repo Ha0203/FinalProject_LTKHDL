@@ -1,7 +1,7 @@
 # Programming For Data Science - Final Project
 
 ## 1. Introduction
---- (Hà ghi chỗ này nha)
+Welcome to the Online Retail Sales Data Exploration and Analysis project! This repository contains an in-depth exploration of a dataset sourced from Kaggle, focusing on online retail sales. The dataset provides valuable insights into the dynamics of online commerce, encompassing a range of features related to customer behavior, product details, and transactional information.
 
 ### _1.0. Group members_
 
