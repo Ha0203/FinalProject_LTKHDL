@@ -3,14 +3,14 @@
 ## 1. Introduction
 Welcome to the Online Retail Sales Data Exploration and Analysis project! This repository contains an in-depth exploration of a dataset sourced from Kaggle, focusing on online retail sales. The dataset provides valuable insights into the dynamics of online commerce, encompassing a range of features related to customer behavior, product details, and transactional information.
 
-### _1.0. Group members_
+### _1.1. Group members_
 
 | Name              | ID       |
 |-------------------|----------|
 | Pham Dang Son Ha  | 21127206 |
 | Nguyen Cao Khoi   | 21127632 |
 
-### _1.1. Table of Contents_
+### _1.2. Table of Contents_
 
 1. [Introduction](#1.-Introduction)
 
